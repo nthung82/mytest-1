@@ -1,5 +1,7 @@
 package com.mkyong.web.controller;
 
 public class Day2Branch {
-private void test(){}
+private void test(){
+  System.out.print();
+}
 }
