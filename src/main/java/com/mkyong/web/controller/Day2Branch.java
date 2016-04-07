@@ -2,6 +2,6 @@ package com.mkyong.web.controller;
 
 public class Day2Branch {
 private void test(){
-  System.out.print();
+  System.out.print("11111111111");
 }
 }
