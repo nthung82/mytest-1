@@ -18,13 +18,13 @@ public class MainController {
 
 		ModelAndView model = new ModelAndView();
 		model.addObject("title", "Spring Security Login Form - Database Authentication");
-		model.addObject("message", "This is dwwwwwwwwwwwwwwefault page!");
+		model.addObject("message", "This is dwwwwwwwwwwwwwwzcxzczxczxczxczxczefault page!");
 		model.setViewName("hello");
 		return model;
 
 	}
 
-	@RequestMapping(value = "/admin**", method = RequestMethod.GET)
+	@RequestMapping(value = "/admaaaaaaaaaaaaaain**", method = RequestMethod.GET)
 	public ModelAndView adminPage() {
 
 		ModelAndView model = new ModelAndView();

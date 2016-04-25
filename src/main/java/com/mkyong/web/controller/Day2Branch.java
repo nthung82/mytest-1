@@ -9,6 +9,6 @@ private void test(){
 }
 private void test2(){
   System.out.print("111111");
-  System.out.print("111111 was merger when conflict");
+  System.out.print("111111 was mersssssssssssssssssssger when conflict");
 }
 }
