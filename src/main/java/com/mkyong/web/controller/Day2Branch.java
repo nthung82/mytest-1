@@ -4,7 +4,7 @@ public class Day2Branch {
 private void test(){
 
 <<<<<<< HEAD
-  System.out.print("my commit1");
+  System.out.print("my commit2");
 =======
   System.out.print("my badness_new111111111111");
 <<<<<<< HEAD1111111111111111
