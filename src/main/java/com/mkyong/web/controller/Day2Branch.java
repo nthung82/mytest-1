@@ -2,7 +2,7 @@ package com.mkyong.web.controller;
 
 public class Day2Branch {
 private void test(){
-  System.out.print("newsssss_New check out");
+  System.out.print("add ket check out");
   System.out.print("sdfsfsdfs moi commit sdfsfs");
 }
 private void test2(){
